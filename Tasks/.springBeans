@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beansProjectDescription>
+	<version>1</version>
+	<pluginVersion><![CDATA[3.6.1.201408250730-RELEASE]]></pluginVersion>
+	<configSuffixes>
+		<configSuffix><![CDATA[xml]]></configSuffix>
+	</configSuffixes>
+	<enableImports><![CDATA[false]]></enableImports>
+	<configs>
+		<config>java:com.tasks.boot.Application</config>
+		<config>java:com.tasks.config.SpringDataConfig</config>
+		<config>java:com.tasks.config.SpringSecurityConfig</config>
+	</configs>
+	<autoconfigs>
+		<config>java:com.tasks.config.AppConfig</config>
+	</autoconfigs>
+	<configSets>
+	</configSets>
+</beansProjectDescription>
